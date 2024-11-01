@@ -3,24 +3,6 @@ md
 
  Framework and Tools
 
-div style=display flex
-  img src=httpsimg.shields.iobadgeLaravel-FF2D20style=for-the-badge&logo=laravel&logoColor=white 
-  img src=httpsimg.shields.iobadgeVue%20js-35495Estyle=for-the-badge&logo=vuedotjs&logoColor=4FC08D 
-  img src=httpsimg.shields.iobadgeVite-B73BFEstyle=for-the-badge&logo=vite&logoColor=FFD62E 
-  img src=httpsimg.shields.iobadgeTailwind_CSS-38B2ACstyle=for-the-badge&logo=tailwind-css&logoColor=white 
-  img src=httpsimg.shields.iobadgeMySQL-005C84style=for-the-badge&logo=mysql&logoColor=white 
-div
-
- Languages
-
-div style=display flex
-  img src=httpsimg.shields.iobadgePHP-777BB4style=for-the-badge&logo=php&logoColor=white 
-  img src=httpsimg.shields.iobadgeTypeScript-007ACCstyle=for-the-badge&logo=typescript&logoColor=white 
-  img src=httpsimg.shields.iobadgeJavaScript-323330style=for-the-badge&logo=javascript&logoColor=F7DF1E 
-  img src=httpsimg.shields.iobadgeCSS3-1572B6style=for-the-badge&logo=css3&logoColor=white 
-  img src=httpsimg.shields.iobadgeHTML5-E34F26style=for-the-badge&logo=html5&logoColor=white 
-div
-
 
 # Prerequisites
 
